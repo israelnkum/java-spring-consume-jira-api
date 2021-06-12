@@ -1,0 +1,1 @@
+INSERT INTO apd_roles (created_at, created_by, updated_at, updated_by, deleted, name) VALUES ('2021-03-12 09:26:51.2', 'anonymousUser','2021-03-12 09:26:51.2', 'anonymousUser', false, 'Admin')
